@@ -1,6 +1,6 @@
 function show(){
     var a=document.getElementById("Name").value;
-    if ((a=="Bob") || (a=="Alex")) {
+    if ((a=="Bob") || (a=="Alice")) {
         alert("hello "+a)
     }
 
